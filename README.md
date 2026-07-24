@@ -149,5 +149,7 @@ JWT_SECRET=your_secret_key
 
 **Laxmiprasanna Adepu**
 
+## Admin-frontend Live Url:cms-assignment-lp.vercel.app
+
 GitHub:
 https://github.com/Laxmiprasanna4044
