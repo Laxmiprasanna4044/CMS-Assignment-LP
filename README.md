@@ -37,6 +37,18 @@ This project allows administrators to manage website pages through an admin dash
 
 ---
 
+## Sample Admin Credentials
+
+Use the following credentials to access the Admin Panel and evaluate the application.
+
+**Email:**
+admin@renewcred.com
+
+**Password:**
+admin123
+
+> These credentials are provided for evaluation purposes only.
+
 ## Tech Stack
 
 ### Frontend
